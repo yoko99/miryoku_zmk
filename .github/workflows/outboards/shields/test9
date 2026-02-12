@@ -1,0 +1,4 @@
+outboard_repository="yoko99/test9"
+outboard_ref="main"
+outboard_from="boards/shields/test9"
+outboard_to="boards/shields/test9"
