@@ -1,0 +1,6 @@
+# M3D_Q keyboard shield
+
+outboard_repository=yoko99/zmk-config  
+outboard_ref=main  
+outboard_from=boards/shields/m3d_q  
+outboard_to=boards/shields/m3d_q
