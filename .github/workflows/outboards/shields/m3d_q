@@ -4,7 +4,7 @@
 # M3D_Q keyboard shield for Miryoku_ZMK using latest ZMK
 
 outboard_repository=yoko99/zmk-config
-outboard_ref=main
+outboard_ref=V3.0
 outboard_from=boards/shields/m3d_q
 outboard_to=boards/shields/m3d_q
 # 最新 ZMK ブランチを使う場合は特に指定不要
