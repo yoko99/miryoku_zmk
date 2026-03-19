@@ -1,6 +1,12 @@
-# M3D_Q keyboard shield
+# Copyright 2026 Manna Harbour
+# https://github.com/manna-harbour/miryoku
 
-outboard_repository=yoko99/zmk-config  
-outboard_ref=main  
-outboard_from=boards/shields/m3d_q  
+# M3D_Q keyboard shield for Miryoku_ZMK using latest ZMK
+
+outboard_repository=yoko99/zmk-config
+outboard_ref=main
+outboard_from=boards/shields/m3d_q
 outboard_to=boards/shields/m3d_q
+# 最新 ZMK ブランチを使う場合は特に指定不要
+# branches が空なら workflow 側で自動的に 'zmkfirmware/zmk/main' を使用
+outboard_branches=
