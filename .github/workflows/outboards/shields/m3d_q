@@ -5,7 +5,7 @@
 
 outboard_repository=yoko99/zmk-config
 outboard_ref=main
-outboard_from=boards/shields/m3d_q
+outboard_from=/
 outboard_to=boards/shields/m3d_q
 # 最新 ZMK ブランチを使う場合は特に指定不要
 # branches が空なら workflow 側で自動的に 'zmkfirmware/zmk/main' を使用
